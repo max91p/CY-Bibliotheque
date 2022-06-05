@@ -1,0 +1,61 @@
+0
+Maxime le boss
+jmlp
+10
+1
+Astérix le Gaulois
+Goscinny
+2
+2
+la mine d'or de Dick Digger
+Morris
+2
+3
+Cuisinez bien accompagné
+Philippe Etchebest
+3
+4
+Mieux manger sans se ruiner
+Laurent Mariotte
+3
+5
+L'art de la victoire
+Philip Knight
+4
+6
+Père riche père pauvre
+Robert T.Kiyosaki
+4
+7
+Dictionnaire de Français
+Larousse
+5
+8
+Dictionnaire francais anglais
+Larousse
+5
+9
+99 francs
+Frédéric Beigbeder
+6
+10
+Mémoires Vives
+Edward Snowden
+9
+11
+Le C pour les Nuls
+Dan Gookin
+11
+12
+Coder proprement
+Robert C. Martin
+11
+13
+martine à la mer
+Marcel Marlier
+12
+14
+Max et lili
+Dominique de Saint-Mars
+12
+
