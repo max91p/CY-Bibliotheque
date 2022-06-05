@@ -31,3 +31,5 @@ Guide utilisation:
 6-l'heure est en GMT+2
 
 N.B. Les "Warning" du makefile ne pose pas de problème au programme
+
+Fait par PAUCHON Maxime et GALISSON Matthias
